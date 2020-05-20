@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sidharth Nair	nair.sidharth21@gmail.com	cryptex3
 
 # THANKS
 
