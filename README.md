@@ -1,5 +1,5 @@
 # Starter Web Project
-Hi!! Im SIdharth Nair
+Hi!! Im SIdharth Sudheer Nair
 ## Introduction
 How are you?
 ## Purpose
