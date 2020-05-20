@@ -7,3 +7,5 @@ How are you?
 ## Deployment
 
 ## How to contribute
+
+## Copyright
