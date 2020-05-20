@@ -1,7 +1,7 @@
 # Starter Web Project
-
+Hi!!
 ## Introduction
-
+How are you?
 ## Purpose
 
 ## Deployment
